@@ -1,10 +1,10 @@
 {
-  "version": "0.0.0",
+  "version": "1.3.6",
   "platform": "windows",
-  "download_url": "https://github.com/phonestyle97/cheatchatai-updates/releases/download/v0.0.0/CheatChatSetup-0.0.0.exe",
-  "file_size": 0,
-  "file_hash": "",
-  "changelog": "Замени URL, версию, размер и SHA256 после загрузки инсталлятора в Releases этого репозитория.",
+  "download_url": "https://github.com/phonestyle97/cheatchatai-updates/releases/download/v1.3.6/CheatChatSetup-1.3.6.exe",
+  "file_size": 52059177,
+  "file_hash": "6c669502748f6ca39f0d1a6f30dd21ebd395341cd38d95ee095c66f0e9cd9f5b",
+  "changelog": "Стабильный релиз 1.3.6.",
   "is_mandatory": false,
   "min_version": ""
 }
