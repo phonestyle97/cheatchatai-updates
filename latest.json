@@ -1,10 +1,10 @@
 {
-  "version": "1.4.3",
+  "version": "1.4.5",
   "platform": "windows",
-  "download_url": "https://github.com/phonestyle97/cheatchatai-updates/releases/download/v1.4.3/CheatChatSetup-1.4.3.exe",
-  "file_size": 114781139,
-  "file_hash": "5412d62fd6bd7f9c73db45a400ef896597a841f5a79bb19329b66ca14ba65824",
-  "changelog": "Релиз 1.4.3. Исправлена проверка обновлений при неподписанном манифесте.",
+  "download_url": "https://github.com/phonestyle97/cheatchatai-updates/releases/download/v1.4.5/CheatChatSetup-1.4.5.exe",
+  "file_size": 66823111,
+  "file_hash": "7a88baaa1cf91a856512d28cc347a11adb20cc814a391f26015af32325310ad9",
+  "changelog": "Релиз 1.4.5.",
   "is_mandatory": false,
   "min_version": ""
 }
