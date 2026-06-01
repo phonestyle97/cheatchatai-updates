@@ -1,10 +1,10 @@
 {
-  "version": "1.4.5",
+  "version": "1.4.7",
   "platform": "windows",
-  "download_url": "https://github.com/phonestyle97/cheatchatai-updates/releases/download/v1.4.5/CheatChatSetup-1.4.5.exe",
-  "file_size": 66823111,
-  "file_hash": "7a88baaa1cf91a856512d28cc347a11adb20cc814a391f26015af32325310ad9",
-  "changelog": "Релиз 1.4.5.",
+  "download_url": "https://github.com/phonestyle97/cheatchatai-updates/releases/download/v1.4.7/CheatChatSetup-1.4.7.exe",
+  "file_size": 50614384,
+  "file_hash": "d366ca354da3df3cf37177443ca69a96a8b4698096c5594a708586c0f1c5101b",
+  "changelog": "Релиз 1.4.7: улучшения AI-профиля, стабильность авторизации и обновлений.",
   "is_mandatory": false,
   "min_version": ""
 }
