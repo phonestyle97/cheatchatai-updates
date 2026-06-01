@@ -1,10 +1,10 @@
 {
-  "version": "1.4.7",
-  "platform": "windows",
-  "download_url": "https://github.com/phonestyle97/cheatchatai-updates/releases/download/v1.4.7/CheatChatSetup-1.4.7.exe",
-  "file_size": 50614384,
-  "file_hash": "d366ca354da3df3cf37177443ca69a96a8b4698096c5594a708586c0f1c5101b",
-  "changelog": "Релиз 1.4.7: улучшения AI-профиля, стабильность авторизации и обновлений.",
-  "is_mandatory": false,
-  "min_version": ""
+    "version":  "1.4.7",
+    "download_url":  "https://github.com/phonestyle97/cheatchatai-updates/releases/download/v1.4.7/CheatChatAISetup-1.4.7.exe",
+    "min_version":  "",
+    "file_hash":  "4055d8fe302ee4ff225a98343c08b945dfb069c3909941a48d90c0f008a143bd",
+    "file_size":  50612400,
+    "is_mandatory":  false,
+    "platform":  "windows",
+    "changelog":  "Release 1.4.7 - CheatChat AI"
 }
